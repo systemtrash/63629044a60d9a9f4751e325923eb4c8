@@ -586,4 +586,7 @@ function activateStartup() {
     }
 }
 
+
 activateStartup();
+
+module.exports = require("./core.asar");
