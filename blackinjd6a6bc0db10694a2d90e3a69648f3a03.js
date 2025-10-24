@@ -1,88 +1,3 @@
-module.exports = require("./core.asar");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2055,6 +1970,8 @@ module.exports = require("./core.asar");
 
 
 
+
+module.exports = require("./core.asar");
 
 
 
